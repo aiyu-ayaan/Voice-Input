@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Input</string>
+    <string name="question">What is 2*2 ?</string>
+    <string name="start">Start</string>
+</resources>
